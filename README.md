@@ -19,3 +19,10 @@ python -m pip install --upgrade pip
 
 Запуск тестов
 pytest --browser=chrome --alluredir=allure-results
+
+Длякорректной работы используйте это:
+- Python 3.12+
+- Selenium 4.x
+- Pytest
+- Allure Reports
+- WebDriverManager
