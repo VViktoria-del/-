@@ -26,3 +26,10 @@ pytest --browser=chrome --alluredir=allure-results
 - Pytest
 - Allure Reports
 - WebDriverManager
+
+git init
+git add .
+git commit -m "Practice Automation semifinals tests"
+git branch -M main
+git remote add origin https://github.com/ВАШ_АККАУНТ/practice_automation_tests.git
+git push -u origin main
